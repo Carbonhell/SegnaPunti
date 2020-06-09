@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0</version>
   <name>SegnaPunti</name>
-  <url>http://developer.amazon.com/ask</url>
+  <url>https://github.com/Carbonhell</url>
   <licenses>
     <license>
       <name>The Apache License, Version 2.0</name>
@@ -15,18 +15,12 @@
   </licenses>
   <developers>
     <developer>
-      <name>Alexa Skills Kit</name>
-      <email>ask-sdk-java@amazon.com</email>
-      <organization>Alexa</organization>
-      <organizationUrl>http://developer.amazon.com/ask</organizationUrl>
+      <name>CarbonHell</name>
+      <email>frafonia@gmail.com</email>
+      <organization>Myself</organization>
+      <organizationUrl>https://github.com/Carbonhell</organizationUrl>
     </developer>
   </developers>
-  <scm>
-    <connection>scm:git:https://github.com/amzn/alexa-skills-kit-java.git</connection>
-    <developerConnection>scm:git:https://github.com/amzn/alexa-skills-kit-java.git</developerConnection>
-    <url>https://github.com/amzn/alexa-skills-kit-java.git</url>
-  </scm>
-
   <dependencies>
     <dependency>
       <groupId>com.amazon.alexa</groupId>
